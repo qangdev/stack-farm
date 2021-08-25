@@ -1,0 +1,14 @@
+# API Server
+fastapi
+uvicorn[standard]
+pydantic[email]
+
+# Database
+motor
+dnspython
+
+# Development
+pip-tools
+black
+flake8
+python-dotenv==0.19.0
